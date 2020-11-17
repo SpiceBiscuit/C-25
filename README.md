@@ -1,2 +1,2 @@
-# C-25
-Angry Birds 2 (inheritance and images)
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
